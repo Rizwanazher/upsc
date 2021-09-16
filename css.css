@@ -1,0 +1,17 @@
+body{ background:url(./image/pexels-jeffrey-czum-2904142.jpg);
+}
+h1{ color: rgb(16, 16, 17);}
+p{ background-color: rgb(208, 225, 240);
+   width: 70%;
+   height: 40%;
+
+}
+.mydiv{ background-color: rgb(208, 225, 240);
+       width: 300px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em;
+}
+
