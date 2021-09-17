@@ -1,1 +1,2 @@
- in this wesite  all the thing related to upsc will be available here 
+We will try to provide all the things related to upsc 
+On this website.
