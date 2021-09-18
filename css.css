@@ -105,12 +105,12 @@ body{ background:url(./image/pexels-mudassir-ali-2680270.jpg);
     box-shadow: 10px 10px 8px #0a0a0a;
   }
   @media screen and (max-width:768px){
-   .wrap{ width: 45%;}
-   .feedback { width : 100%}
+   .wrap{ width: 40%;}
+   .feedback { width : 100%;}
   }
   @media screen and (min-width:769px){
    .wrap{ width: 23%;}
-   .feedback{ width: 100%}
+   .feedback{ width: 100%;}
 }
   
   
