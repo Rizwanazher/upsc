@@ -98,15 +98,16 @@ body{ background:url(./image/pexels-mudassir-ali-2680270.jpg);
     
   }
   .wrap{
-    height: 200px;
+    height: 180px;
    padding: 0.5em;
    margin: 0.5em;
    
     box-shadow: 10px 10px 8px #0a0a0a;
   }
   @media screen and (max-width:768px){
-   .wrap{ width: 40%;}
-   .feedback { width : 100%;}
+   .wrap{ width: 35%;}
+   .feedback { width : 100%;
+                Margin-right:0%}
   }
   @media screen and (min-width:769px){
    .wrap{ width: 23%;}
