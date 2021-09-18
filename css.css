@@ -53,9 +53,10 @@ body{ background:url(./image/pexels-mudassir-ali-2680270.jpg);
       color: whitesmoke;
       text-align: center;
       background-color: rgba(17, 17, 17, 0.774);
+      Margin-right:0%;
+      Margin-left:0%;
+      Width:100%
       
-      margin: 0em;
-      border: 2.5px solid ;
       
      
   }
@@ -98,21 +99,19 @@ body{ background:url(./image/pexels-mudassir-ali-2680270.jpg);
     
   }
   .wrap{
-    height: 175px;
+    height: 165px;
    padding: 0.5em;
    margin: 0.5em;
    
     box-shadow: 10px 10px 8px #0a0a0a;
   }
   @media screen and (max-width:768px){
-   .wrap{ width: 39%;}
-   .feedback { width : 100%;
-                Margin-right:0%;
-                 Margin-left:0%;}
+   .wrap{ width: 40%;}
+   
   }
   @media screen and (min-width:769px){
    .wrap{ width: 23%;}
-   .feedback{ width: 100%;}
+   
 }
   
   
