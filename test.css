@@ -31,7 +31,7 @@ div{ display: flex;
 .child2{ width:30%;
     
     margin: 1em;
-    padding: 1em;
+   
    height: 30%;
     background-color: turquoise;
 }
@@ -52,33 +52,37 @@ div{ display: flex;
 
     
 @media screen and (max-width:768px){
-   .wrap{ width: 600px;
+   .wrap{ width:100%;
      }
      .box1{
-        background-color: yellow;
+        background-color: rgb(241, 40, 117);
     }
     .box2{
-        background-color: yellow;
+        background-color: rgb(241, 40, 117);
+        height: 600px;
+        
     }
     .box3{
-        background-color: yellow;
+        background-color: rgb(241, 40, 117);
     }
+    
 }
    
               
     
    
    @media screen and (min-width:769px){
-    .wrap{ width: 30%;}
+    .wrap{ width:30%;}
    
+    
     .box1{
-        background-color: rgb(241, 40, 117);
+        background-color: yellow;
     }
     .box2{
-        background-color: rgb(241, 40, 117);
+        background-color: yellow;
     }
     .box3{
-        background-color: rgb(241, 40, 117);
+        background-color: yellow;
     }
    }
  
