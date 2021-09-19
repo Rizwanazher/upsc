@@ -57,17 +57,17 @@ div{ display: flex;
    .wrap{ width:600px;
         height: 600px;
      }
-     .box1{
-        background-color: rgb(241, 40, 117);
+     
+    .box1{
+        background-color: yellow;
     }
     .box2{
-        background-color: rgb(241, 40, 117);
-     
-        
+        background-color: yellow;
     }
     .box3{
-        background-color: rgb(241, 40, 117);
+        background-color: yellow;
     }
+     
     
     
 }
@@ -78,17 +78,19 @@ div{ display: flex;
    @media screen and (min-width:769px){
     .wrap{ width:30%;
         height: 600px;}
+        .box1{
+            background-color: rgb(241, 40, 117);
+        }
+        .box2{
+            background-color: rgb(241, 40, 117);
+         
+            
+        }
+        .box3{
+            background-color: rgb(241, 40, 117);
+        }
    
     
-    .box1{
-        background-color: yellow;
-    }
-    .box2{
-        background-color: yellow;
-    }
-    .box3{
-        background-color: yellow;
-    }
    }
  
     
